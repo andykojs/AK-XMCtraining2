@@ -1,0 +1,23 @@
+﻿---
+ID: "1562ee70-40fa-4373-8580-18455a0bf98f"
+Parent: "59626fb4-02ce-4c33-ae7d-4497036ed353"
+Template: "a9ebd923-fd20-4aba-86b3-3ad23a8ce13b"
+Path: /sitecore/content/TAC/Events/Data/EventPromo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T210352Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45cd0518-cd6e-4f75-b7b3-3ab0fad2f22d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.kojs@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230825T210352Z

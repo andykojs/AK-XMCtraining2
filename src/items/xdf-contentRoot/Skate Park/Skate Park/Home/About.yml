@@ -1,0 +1,109 @@
+﻿---
+ID: "223a91ff-93c0-4bf5-95de-020a1eaa47b5"
+Parent: "e8950355-61d2-4af3-b3ce-7caf23d419e5"
+Template: "bd1fc931-8fee-4f81-832b-d21da507bc1d"
+Path: /sitecore/content/Skate Park/Skate Park/Home/About
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{899170AA-2810-4500-B485-7D3232638EAE}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AC9387CB-A459-4C52-B4AA-03788FC19211}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bE14C1EC0-92B0-4C6D-96DD-C24C56BAFF7E%7d%7c%7b6753C35E-0B32-4D98-A8B6-2F87035CDFF3%7d%7c%7bE93E917B-1BE5-46AD-A936-6AFBAAD88690%7d%7c%7bB5F91141-8CF5-4771-9683-4CA9DD64FAFD%7d%7c%7b5798B298-84FB-4FFA-B9F2-AA380DA00C86%7d%7c%7bC48B465E-6FF5-492D-8B2B-1E098473E0D2%7d%7c%7b0411A6DF-9E11-4317-82C8-67929D00C25F%7d%7c%7b95F75F44-1813-47B4-911A-12EEF12C3345%7d%7c%7bBDB5DE84-E1C0-44ED-BF92-E893C190D691%7d%7c%7b82B7E823-2182-46BF-ACF5-59CC2610A2E2%7d%7c%7b6BDB239B-0F04-4C91-89C9-12ABBCD4B185%7d%7c%7bFDF8BFA0-528A-4783-81D2-22B22011900F%7d%7c%7b5109046E-61EF-4826-BFB7-D766FCA9CE35%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{E6FB9BA1-1E00-4ABB-82DF-58B16A541C76}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7bE3CF5DAE-DB47-4101-8055-288BDEEFC544%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03b3b8a0-5a0c-423b-a7da-33de9f7b1d8b"
+      Hint: Content
+      Value: "<p>Welcome to Skate Park by the Adventure Company. We supply skateboards, parts, and accessories to skate shops and boarders around the world. We are committed to providing our customers with high-quality products at competitive prices. We offer a wide variety of products, including decks, wheels, trucks, bearings, and hardware. We also carry a variety of accessories, such as helmets, pads, and clothing. We are passionate about skateboarding and believe that everyone should have the opportunity to experience the joy of skating.</p>"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{232486C5-5A27-4A7F-A989-20EF367181AF}"
+              p:before="*"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BB4AEFF17-8C0E-4E8A-92F1-63D22509CCC6%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{AC9387CB-A459-4C52-B4AA-03788FC19211}"
+              s:par="Styles=%7BE14C1EC0-92B0-4C6D-96DD-C24C56BAFF7E%7D%7C%7B6753C35E-0B32-4D98-A8B6-2F87035CDFF3%7D%7C%7BE93E917B-1BE5-46AD-A936-6AFBAAD88690%7D%7C%7BB5F91141-8CF5-4771-9683-4CA9DD64FAFD%7D%7C%7B5798B298-84FB-4FFA-B9F2-AA380DA00C86%7D%7C%7BC48B465E-6FF5-492D-8B2B-1E098473E0D2%7D%7C%7B0411A6DF-9E11-4317-82C8-67929D00C25F%7D%7C%7B95F75F44-1813-47B4-911A-12EEF12C3345%7D%7C%7BBDB5DE84-E1C0-44ED-BF92-E893C190D691%7D%7C%7B82B7E823-2182-46BF-ACF5-59CC2610A2E2%7D%7C%7B6BDB239B-0F04-4C91-89C9-12ABBCD4B185%7D%7C%7BFDF8BFA0-528A-4783-81D2-22B22011900F%7D%7C%7B5109046E-61EF-4826-BFB7-D766FCA9CE35%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{E6FB9BA1-1E00-4ABB-82DF-58B16A541C76}">
+              <p:d />
+            </r>
+            <r
+              uid="{93FAF71A-DF9B-4D47-B336-9BED2B3C30E0}"
+              p:after="r[@uid='{AC9387CB-A459-4C52-B4AA-03788FC19211}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7BD4B8CE03-92B6-46C3-A35B-FD40A310E4C5%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{3ACC6AA4-18B0-475A-A903-EBE70E4C0FF4}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7B30312AAE-0131-4E96-9588-0C2B8672610D%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T153108Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "711c9a8e-d9bd-4992-adf2-2aedbea438eb"
+      Hint: Title
+      Value: Skate Park by the Adventure Company
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec8c32aa-efe9-42fb-b71a-d5d7bf1725a5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T160924Z

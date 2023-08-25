@@ -1,0 +1,48 @@
+﻿---
+ID: "ac0a15b3-a909-4598-aec4-eba5cf0999e8"
+Parent: "ad5708a2-2afb-4dc3-95e5-54016b38bcf3"
+Template: "88a93b55-2a40-46d2-ab29-9c8e408564b8"
+Path: /sitecore/content/TAC/Events/Data/Heroes/Sample Hero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T195728Z
+    - ID: "26c16a4e-178a-4203-b688-6e83f1a49468"
+      Hint: Body
+      Value: Enjoy Mount Everest Event with the Adventure Company.
+    - ID: "42fc5fb2-7741-4970-8f64-f5e0833dabbc"
+      Hint: Title
+      Value: Exciting Mount Everest Event
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andy.kojs@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andy.kojs@sitecore.com
+    - ID: "75cb1f17-c261-4ebb-a116-a42343a0b229"
+      Hint: Summary
+      Value: "Join our Exciting Climbing Events!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97403f1b-b34b-489f-9187-d3c28d7b62d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andy.kojs@sitecore.com
+    - ID: "d5b63dfd-9e85-449e-b007-75e8aa2885d1"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2DE35D35-AC7F-4304-8A1C-3257475C5BB3}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230825T195855Z
+    - ID: "ee378172-3561-4618-9c85-93f4e12848ba"
+      Hint: Image
+      Value: |
+        <image mediaid="{3AE71ED9-D1D3-4488-B6FB-93B6D52B5B27}" />

@@ -1,0 +1,68 @@
+﻿---
+ID: "2395fe55-bd16-4298-97fe-4ff408b0b1e3"
+Parent: "bee848c3-3e43-4df7-be15-dc8547cb7eb5"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Skate Park/Skate Park/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8173FD07-4E3C-4C97-A121-945B713C6C46}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b091F9E35-A49A-4179-AEB8-BABB1556AB9C%7d%7c%7bDA36E9B7-9310-4C45-96FD-78EF7FB51B59%7d%7c%7bE14C1EC0-92B0-4C6D-96DD-C24C56BAFF7E%7d%7c%7b6753C35E-0B32-4D98-A8B6-2F87035CDFF3%7d%7c%7bE93E917B-1BE5-46AD-A936-6AFBAAD88690%7d%7c%7bB5F91141-8CF5-4771-9683-4CA9DD64FAFD%7d%7c%7b5798B298-84FB-4FFA-B9F2-AA380DA00C86%7d%7c%7bC48B465E-6FF5-492D-8B2B-1E098473E0D2%7d%7c%7b0411A6DF-9E11-4317-82C8-67929D00C25F%7d%7c%7b95F75F44-1813-47B4-911A-12EEF12C3345%7d%7c%7bBDB5DE84-E1C0-44ED-BF92-E893C190D691%7d%7c%7b82B7E823-2182-46BF-ACF5-59CC2610A2E2%7d%7c%7b6BDB239B-0F04-4C91-89C9-12ABBCD4B185%7d%7c%7bFDF8BFA0-528A-4783-81D2-22B22011900F%7d%7c%7b5109046E-61EF-4826-BFB7-D766FCA9CE35%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{B10785B1-0B01-4E17-86DC-73928924B758}"
+          p:after="r[@uid='{8173FD07-4E3C-4C97-A121-945B713C6C46}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b0E290BF9-1D0F-48F4-A621-B0D2C25DE85E%7d&amp;FieldNames=%7bE3CF5DAE-DB47-4101-8055-288BDEEFC544%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{3E2CF4D5-5CF8-4913-9B37-83550EA49293}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b0E290BF9-1D0F-48F4-A621-B0D2C25DE85E%7d&amp;FieldNames=%7bE3CF5DAE-DB47-4101-8055-288BDEEFC544%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T153110Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6372d2f-0abb-4e4d-bfde-c831a17d1dab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T153116Z

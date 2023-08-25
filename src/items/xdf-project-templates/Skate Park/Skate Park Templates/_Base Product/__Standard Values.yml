@@ -1,0 +1,45 @@
+﻿---
+ID: "ed670ba5-1a91-4706-97a7-b5ac6bb67af0"
+Parent: "a14a6c87-8d6c-4c40-b5c7-ab1ca630c853"
+Template: "a14a6c87-8d6c-4c40-b5c7-ab1ca630c853"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/_Base Product/__Standard Values
+SharedFields:
+- ID: "11321664-e40c-40fe-932c-43d5a59e3f92"
+  Hint: SKU
+  Value: $id
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{15B86175-2975-448F-B4F0-4A4F0D67A8A2}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "81d21c6e-687f-474e-badb-4224c0bbce9e"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1093a331-93d0-4bc3-a02a-0ad9dd1242f1"
+      Hint: Highlights
+      Value: Whether you&rsquo;re a beginner or a pro, this will work well for you.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T171319Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a13c89a-6d9f-4af7-8b53-914afa54df03"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Andy Kojs
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T193837Z
