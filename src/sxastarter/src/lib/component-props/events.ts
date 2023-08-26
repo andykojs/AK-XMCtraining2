@@ -1,3 +1,11 @@
+import {
+  Field,
+  ImageField,
+  RichTextField,
+  RouteData,
+  TextField,
+} from '@sitecore-jss/sitecore-jss-nextjs';
+
 /**
  * Shared base content fields
  */
